@@ -4,7 +4,7 @@ Contains exploratory code and topics to improve coding in Python. Built with the
 
 # Skill Topics
 
-* Args
+* Args (and the unpacking operator)
 * Classes (simple)
 * Dataclass (decorator)
 * List Comprehension
